@@ -114,7 +114,7 @@ st.sidebar.caption("- Topics discussed in the video,")
 st.sidebar.caption("- Sensitivity check for the video")
 
 st.sidebar.subheader("Powered by")
-st.sidebar.image("https://assets.stickpng.com/images/62e7d365862beb52e8bf4575.png",width=150)
+st.sidebar.image("icons1.png",width=150)
 
 
 default_bool = st.checkbox("Use the Demo File to run the analyser")
